@@ -1,0 +1,3 @@
+To check the ES Cluster monitoring, run the following url in linux machine
+
+curl http://35.223.108.49:9300/_cat/health

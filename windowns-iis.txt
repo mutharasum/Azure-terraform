@@ -1,0 +1,3 @@
+Hi, 
+
+I have changed the Identity in the Application Pool to "ApplicationPoolIdentity". Restarted the Application pool. Now I can able to see IIS Server homepage.
